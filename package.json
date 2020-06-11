@@ -1,0 +1,16 @@
+{
+  "name": "hotbarjs",
+  "version": "1.0.0",
+  "description": "Minecraft Hotbar Slot Randomizer",
+  "main": "index.js",
+  "dependencies": {
+    "input-event": "^1.2.6",
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colbie Dison",
+  "license": "GPL-3.0"
+}
