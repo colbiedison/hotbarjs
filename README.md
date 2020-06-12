@@ -1,6 +1,7 @@
 # hotbar.js
 hotbar.js is a node.js script which automatically presses random number keys.  
 It is designed to assist with building in minecraft with randomized blocks.  
+This script was made for Linux. Unfortunately, it will not work on windows, due to the way it handles input events.
 
 hotbar.js uses  
 [input-event](https://github.com/risacher/input-event) by Daniel Risacher  
